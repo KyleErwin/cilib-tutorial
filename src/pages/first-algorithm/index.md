@@ -33,6 +33,9 @@ libraryDependencies ++= Seq(
 Once you have refreshed your project we can start looking at what
 `Runner` is.
 
+This chapter also serves as an introductory to the assignments later
+presented is part 5, Assignments.
+
 Lastly, it should also be mentioned that we would want to save our
 results to some file format.
 This is an option coming to the next `cilib` release in the `cilib-io`
