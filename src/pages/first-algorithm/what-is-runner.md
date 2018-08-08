@@ -96,20 +96,42 @@ def foldStepS[F[_], S, A, B](
  ```
 
 ### Output
+
+The above method headers contain types that you might be unfamiliar with.
+Some are new `cilib-exec` types that we will discuss now others such as
+`Process` and `Task` that belong to `scalaz-stream`. For more information
+about `scalaz-stream` you can check out the
+[repository][Scalaz-stream-link] as well as this
+[tutorial][Scalaz-stream-tut-link].
+
+The `exec` package contains several types that are used to
+keep track of our computations at each iteration as well as give names
+(in the form of non empty strings) to our problems and algorithms.
+These types all extend a common trait called `output`.
+
 ```scala
 trait Output
 final case class Algorithm[A](name: String Refined NonEmpty, value: A)
 final case class Problem[A](name: String Refined NonEmpty,
-                            env: Env,
-                            eval: RVar[NonEmptyList[A] => Objective[A]])
+    env: Env,
+    eval: RVar[NonEmptyList[A] => Objective[A]])
+
 final case class Progress[A] private (algorithm: String,
-                                      problem: String,
-                                      seed: Long,
-                                      iteration: Int,
-                                      env: Env,
-                                      value: A)
+    problem: String,
+    seed: Long,
+    iteration: Int,
+    env: Env,
+    value: A)
 ```
 
+Although you will never directly create an instance `Progress` it is important
+to understand what it is. We encounter instances of `Progress`
+when we execute our `foldStep` method.
+`Progress` contains information specific to some iteration.
+We can use this information to track our results which we will see later
+how to do.
+
+### staticProblem and problem
 
 ### Conclusion
 

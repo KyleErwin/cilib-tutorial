@@ -39,5 +39,5 @@ presented is part 5, Assignments.
 Lastly, it should also be mentioned that we would want to save our
 results to some file format.
 This is an option coming to the next `cilib` release in the `cilib-io`
-package. However, If you wish to check it out now head over to the
-`io` section.
+package. However, If you wish to check it out now head over the `cilib`
+[repository][cilib].

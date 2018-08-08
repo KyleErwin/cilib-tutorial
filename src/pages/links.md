@@ -11,9 +11,11 @@
 
 [cilib-docs]: https://github.com/cirg-up/cilib/tree/series/2.0.x/docs/src/main
 [cilib-position-object]:https://github.com/cirg-up/cilib/blob/series/2.0.x/core/src/main/scala/cilib/Position.scala
-
+[cilib]: https://github.com/cirg-up/cilib/
 
 [Scalaz-link]: https://github.com/scalaz/scalaz
+[Scalaz-stream-link]: https://github.com/scalaz/scalaz-stream
+[Scalaz-stream-tut-link]: https://gist.github.com/djspiewak/d93a9c4983f63721c41c
 [Spire-link]: https://github.com/non/spire
 [Monocle-link]: http://julien-truffaut.github.io/Monocle/
 [Shapeless-link]: https://github.com/milessabin/shapeless
