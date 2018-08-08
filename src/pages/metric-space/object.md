@@ -55,7 +55,7 @@ point[A,B](a: B): MetricSpace[A,B]: MetricSpace[A,B]
 If any of this seems daunting or scary in any way, don't worry.
 These are methods, just like any other methods, but have strict type parameters.
 So the code, `F[_]:Foldable`, simply means we require some sort of functor that is an extension of `Foldable`.
-If you are still a bit unsure, I recommend looking at the "Scala With Cats" book by the team over at [Underscore][link-underscore].
+If you are still a bit unsure, I recommend looking at the "Scala With Cats" book by the team over at [Underscore][underscore].
 
 Currently `MetricSpaces` are only used with regards to selection methods in CILib.
 However, how you choose to use them is entirely up to you.

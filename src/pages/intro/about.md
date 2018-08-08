@@ -1,6 +1,6 @@
 # About This Book #{-}
 
-This book is aimed at walking you through the different components of CILib (Computational Intelligence Library). CILib is written in Scala, if you don't have any experience with Scala I would recommend first learning the language and getting a good idea of what Scala is and how it works. To do this I would recommend Essential Scala and Scala With Cats by the team over at [Underscore][link-underscore].
+This book is aimed at walking you through the different components of CILib (Computational Intelligence Library). CILib is written in Scala, if you don't have any experience with Scala I would recommend first learning the language and getting a good idea of what Scala is and how it works. To do this I would recommend Essential Scala and Scala With Cats by the team over at [Underscore][underscore].
 
 Along with theory explanations of what certain components do, the book will also include code to demonstrate an example of use. In a way, this book will also serve as documentation by example for CILib.
 
@@ -50,8 +50,8 @@ Another book is also in development that will be a guide to developing for CILib
 
 Additional dependencies on community projects include the following:
 
-- [Scalaz][Scalaz-link] for functional typeclasses
-- [Spire][Spire-link] for mathematical typeclasses
-- [Monocle][Monocle-link] for optics
-- [Shapeless][Shapeless-link]
-- [Refined][Refined-link]
+- [Scalaz][Scalaz] for functional typeclasses
+- [Spire][Spire] for mathematical typeclasses
+- [Monocle][Monocle] for optics
+- [Shapeless][Shapeless]
+- [Refined][Refined]

@@ -15,4 +15,4 @@ Distance is computed by a function dist which has the following four laws:
 * Symmetry: for all x y. dist x y == dist y x
 * Triangle inequality: for all x y z. dist x z <= dist x y + dist y z
 
-The [Wikipedia][metric-space-link] article can provide more details on metric spaces if you are unfamiliar.
+The [Wikipedia][metric-space] article can provide more details on metric spaces if you are unfamiliar.

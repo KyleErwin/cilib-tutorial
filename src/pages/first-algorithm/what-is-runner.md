@@ -101,8 +101,8 @@ The above method headers contain types that you might be unfamiliar with.
 Some are new `cilib-exec` types that we will discuss now others such as
 `Process` and `Task` that belong to `scalaz-stream`. For more information
 about `scalaz-stream` you can check out the
-[repository][Scalaz-stream-link] as well as this
-[tutorial][Scalaz-stream-tut-link].
+[repository][Scalaz-stream] as well as this
+[tutorial][Scalaz-stream-tut].
 
 The `exec` package contains several types that are used to
 keep track of our computations at each iteration as well as give names

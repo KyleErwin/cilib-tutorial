@@ -5,12 +5,12 @@ But you might be asking yourself "How can we modify our set positions to explore
 And this is exactly what we intend to learn in the coming chapter.
 Well, partly.
 This chapter is going to focus on `Lenses`, which are super awesome getters, setters and more!
-CILib makes use of the two optics from the [`monocle`][Monocle-link] library.
+CILib makes use of the two optics from the [`monocle`][Monocle] library.
 
-- [`Lens`][lens-link]
-- [`Prism`][prism-link]
+- [`Lens`][lens]
+- [`Prism`][prism]
 
-I deeply encourage you to check out [`monocle`][Monocle-link] if you are not familiar with any of the concepts I just mentioned.
+I deeply encourage you to check out [`monocle`][Monocle] if you are not familiar with any of the concepts I just mentioned.
 The use of these optics is beneficial as they allow us to create a new *mutated* instance while still preserving the original.
 Or they may shed light on an instance by *zooming* in and getting/returning data.
 
@@ -38,5 +38,5 @@ through the use of its implicit lookup mechanics.
 Now that you understand the motivation for `Lenses` we can start to look at what CILib offers us.
 If you are still a bit unclear about optics then hopefully the following sections will clear that up as we go through some examples.
 Just one last thing.
-You might have picked up that [Gary][link-gary] made reference to something called `Entity`.
+You might have picked up that [Gary][gary] made reference to something called `Entity`.
 Fear not as this will be explained more in detail soon in this chapter and the next chapter, which is all about `Entity`.

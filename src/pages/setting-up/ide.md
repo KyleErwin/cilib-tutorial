@@ -2,7 +2,7 @@
 
 If you prefer to use a terminal and text editor you can skip ahead to that section. 
 
-In the this section, we'll be making use of one of the most popular IDEs, that being [InteliJ][link-intelij]. You can get InteliJ from [here][link-intelij]. 
+In the this section, we'll be making use of one of the most popular IDEs, that being [InteliJ][intelij]. You can get InteliJ from [here][intelij]. 
 It should detect what operating system you are running when you click download. Select the version you wan and install it. 
 
 ### Installing Scala Plugins

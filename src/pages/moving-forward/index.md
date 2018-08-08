@@ -20,6 +20,6 @@ For example, you'll often see an algorithm as a heading with its parameters and 
 
 Lastly, it's important to remember that this book isn't just a tutorial but also documentation of the whole of CILib.
 So if you encounter a problem, or need help figuring out what a method or class does, you're more than likely to find an answer in this book.
-If you still need help you can came chat on the [gitter][gitter-link].
+If you still need help you can came chat on the [gitter][gitter].
 
 I hope you enjoyed this first part of the book!

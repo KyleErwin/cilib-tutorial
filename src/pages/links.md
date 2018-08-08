@@ -1,33 +1,32 @@
-[link-underscore]: https://underscore.io
-[link-cilib]: https://github.com/cirg-up/cilib
-[link-intelij]: https://www.jetbrains.com/idea/
-[link-sbt]: http://www.scala-sbt.org/download.html
-[link-scala]: https://www.scala-lang.org/download/
-[link-resolvers]: http://www.scala-sbt.org/1.x/docs/Resolvers.html
+[underscore]: https://underscore.io
+[cilib]: https://github.com/cirg-up/cilib
+[intelij]: https://www.jetbrains.com/idea/
+[sbt]: http://www.scala-sbt.org/download.html
+[scala]: https://www.scala-lang.org/download/
+[resolvers]: http://www.scala-sbt.org/1.x/docs/Resolvers.html
 
-[Link-cmwc]: https://en.wikipedia.org/wiki/Multiply-with-carry
-[link-lcg]: https://en.wikipedia.org/wiki/Linear_congruential_generator
-[link-gary]: https://github.com/gpampara
+[cmwc]: https://en.wikipedia.org/wiki/Multiply-with-carry
+[lcg]: https://en.wikipedia.org/wiki/Linear_congruential_generator
+[gary]: https://github.com/gpampara
 
 [cilib-docs]: https://github.com/cirg-up/cilib/tree/series/2.0.x/docs/src/main
 [cilib-position-object]:https://github.com/cirg-up/cilib/blob/series/2.0.x/core/src/main/scala/cilib/Position.scala
-[cilib]: https://github.com/cirg-up/cilib/
 
-[Scalaz-link]: https://github.com/scalaz/scalaz
-[Scalaz-stream-link]: https://github.com/scalaz/scalaz-stream
-[Scalaz-stream-tut-link]: https://gist.github.com/djspiewak/d93a9c4983f63721c41c
-[Spire-link]: https://github.com/non/spire
-[Monocle-link]: http://julien-truffaut.github.io/Monocle/
-[Shapeless-link]: https://github.com/milessabin/shapeless
-[Refined-link]: https://github.com/fthomas/refined?#using-refined
+[Scalaz]: https://github.com/scalaz/scalaz
+[Scalaz-stream]: https://github.com/scalaz/scalaz-stream
+[Scalaz-stream-tut]: https://gist.github.com/djspiewak/d93a9c4983f63721c41c
+[Spire]: https://github.com/non/spire
+[Monocle]: http://julien-truffaut.github.io/Monocle/
+[Shapeless]: https://github.com/milessabin/shapeless
+[Refined]: https://github.com/fthomas/refined?#using-refined
 
-[lens-link]: http://julien-truffaut.github.io/Monocle/optics/lens.html
-[prism-link]: http://julien-truffaut.github.io/Monocle/optics/prism.html
-[iso-link]: https://julien-truffaut.github.io/Monocle/optics/iso.html
+[lens]: http://julien-truffaut.github.io/Monocle/optics/lens.html
+[prism]: http://julien-truffaut.github.io/Monocle/optics/prism.html
+[iso]: https://julien-truffaut.github.io/Monocle/optics/iso.html
 
-[metric-space-link]: https://en.wikipedia.org/wiki/Metric_space
-[gitter-link]: https://gitter.im/cirg-up/cilib
+[metric-space]: https://en.wikipedia.org/wiki/Metric_space
+[gitter]: https://gitter.im/cirg-up/cilib
 
-[ga-example-link]: https://github.com/cirg-up/cilib/blob/series/2.0.x/example/src/main/scala/cilib/example/GA.scala
+[ga-example]: https://github.com/cirg-up/cilib/blob/series/2.0.x/example/src/main/scala/cilib/example/GA.scala
 [Benchmarks]: https://github.com/cirg-up/benchmarks
 [example-package]: https://github.com/cirg-up/cilib/tree/series/2.0.x/example/src/main/scala/cilib/example

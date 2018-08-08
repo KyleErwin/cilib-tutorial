@@ -15,7 +15,7 @@ specific things:
 
 An `Enity` is used to represent a singular *thing* exploring the search space.
 This *thing* changes from algorithm to algorithm.
-[Gary][Link-Gary] gives a clear explanation in the following segment as to why CILib uses `Entity`.
+[Gary][Gary] gives a clear explanation in the following segment as to why CILib uses `Entity`.
 
 <div class="callout callout-danger">
 Within swarm intelligence, evolutionary computation and other, similar

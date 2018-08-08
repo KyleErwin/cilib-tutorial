@@ -14,8 +14,8 @@ Our example will look at each of these steps in detail so we can really understa
 In order to have random numbers we need a random number generator.
 You are more than welcome to define your own pseudo-random number generator (PRNG).
 However, CILib offers a random number generator object called `RNG` that is suitable for scientific work. 
-`RNG` utilizes a [linear congruential generator][link-lcg] method as well as a 
-[complementary-multiply-with-carry (CMWC)][link-cmwc] method to generate its random numbers. 
+`RNG` utilizes a [linear congruential generator][lcg] method as well as a 
+[complementary-multiply-with-carry (CMWC)][cmwc] method to generate its random numbers. 
 `RNG` does just that, generate random numbers.
 All we need to do is supply a seed value.
 It is always recommended to record the seed value, so that others may reproduce results, especially if the results are to be published.

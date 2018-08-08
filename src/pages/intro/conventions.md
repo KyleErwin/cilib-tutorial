@@ -10,7 +10,7 @@ Throughout the book you will see a lot of theory along side practical examples r
 After the initial introduction they will be written in normal font.
 
 - Program code, filenames, and file contents, are written in `monospace font`.
-- References to external resources are written as [hyperlinks][link-cilib].
+- References to external resources are written as [hyperlinks][cilib].
 - References to API documentation are written using a combination of hyperlinks and monospace font, for example: [`scala.Option`][scala.Option].
 
 Note that we do not distinguish between singular and plural forms.
@@ -24,7 +24,7 @@ You will come across two different types of code blocks. The first being a stand
 val number = 21 // My number
 println(s"My favorite number is $number") // My message
 ```
-The second type of code block uses [tut][link-tut] to ensure it compiles. You can see the result of the compilation as a comment. 
+The second type of code block uses [tut][tut] to ensure it compiles. You can see the result of the compilation as a comment. 
 
 ```tut:book
 "cilib".toUpperCase
@@ -44,5 +44,5 @@ on corner cases or underlying mechanisms.
 </div>
 
 <div class="callout callout-danger">
-Information and insight provided from CILib docs project, written by [Gary][link-gary].
+Information and insight provided from CILib docs project, written by [Gary][gary].
 </div>

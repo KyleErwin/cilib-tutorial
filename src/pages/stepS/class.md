@@ -21,7 +21,7 @@ def zoom[S2](l: monocle.Lens[S2,S]): StepS[A,S2,B]
 
 The `zoom` method uses a type of lense from the `monocle` library,
 called `Iso`. Information about `iso` can be found over here at this
-[link][iso-link]. We will see how all of these new data types come as
+[link][iso]. We will see how all of these new data types come as
 we start by creating our first `StepS`!
 
 ### Our First StepS

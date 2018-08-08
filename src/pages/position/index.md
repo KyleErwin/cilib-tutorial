@@ -12,7 +12,7 @@ Each represents a possible solution to the problem at hand, and may be in one of
 
 </div>
 
-The above explanation was provided by [Gary Pamparà][link-gary] on the [CILib docs project][cilib-docs].
+The above explanation was provided by [Gary Pamparà][gary] on the [CILib docs project][cilib-docs].
 Up until now we have primarily been generating random candidate solutions and evaluating them.
 In the last chapter's questions we briefly looked at modifying candidate solutions.
 However, we weren't really exploring the search space.
@@ -39,7 +39,7 @@ And of course, we are provided with a companion object.
 Unlike other chapters we are first going to explore the companion object before we go any further.
 
 <div class="callout callout-warning">
-This is the first chapter were you are going to be using [Refined][Refined-link].
+This is the first chapter were you are going to be using [Refined][Refined].
 The following imports should be sufficient
 
 ```tut:book:silent
