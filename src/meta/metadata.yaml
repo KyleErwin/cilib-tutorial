@@ -140,10 +140,14 @@ pages:
 #  - moo/index.md
 
 # - eda/index.md
-  
+
   - parts/part4.md
 
   - solutions.md
+
+  - parts/part5.md
+
+  - assignments/index.md
 
   - links.md
 ...
