@@ -190,7 +190,7 @@ def adjust (values: NonEmptyList[Double], violations: List[Constraint[Double]]):
 </div>
 
 ### Question 7
-Now all thats left is to get the most cost effective solution for our custom bow and arrow.
+Now all that's left is to get the most cost effective solution for our custom bow and arrow.
 Implement a method called `getCustomWeapon` which will return a the details of the bow and arrow as well as the fitness score.
 
 - `Distance, Damage, Bow Type, Arrow Type, Cost, Fitness`

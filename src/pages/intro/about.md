@@ -29,7 +29,7 @@ It is very important to ensure that the library code is pure - thereby reducing 
 
 ### Project structure #{-}
 
-Trying to maintain a modular set of functionalities, CILib consists of several sub-projects:
+Trying to maintain a modular set of functionality, CILib consists of several sub-projects:
 
 - core - Contains type class definitions together with required data structures.
 - exec - Simplistic execution code allowing for experimental execution.

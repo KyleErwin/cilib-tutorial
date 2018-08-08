@@ -7,7 +7,7 @@ However, It might be interesting to read through it.
 
 This is a relatively simple process. 
 Head over to the [Scala site][scala-link] and download the latest version for your operating system.
-After that, all thats left now is to get [SBT][sbt-link]. 
+After that, all that's left now is to get [SBT][sbt-link].
 If you prefer, you can also use your operating systems' package manger to get Scala and SBT.
 For example, on ubuntu you would use `sudo apt-get install scala` and `sudo apt-get install sbt`.
 

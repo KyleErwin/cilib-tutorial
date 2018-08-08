@@ -84,4 +84,4 @@ Comparison.fitter(test2, test1).apply(comparison)
 Comparison.fitter(test1, test2).apply(comparison)
 ```
 
-And thats how we use the `Comparison` object!
+And that's how we use the `Comparison` object!

@@ -95,7 +95,6 @@ def foldStepS[F[_], S, A, B](
         Process[Task, Progress[(S, F[B])]]
  ```
 
-
 ### Output
 ```scala
 trait Output

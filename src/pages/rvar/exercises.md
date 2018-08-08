@@ -81,7 +81,7 @@ def getMax(iterations: Int): List[Double] = {
 Write the necessary statements that will produce a `RVar[List[Double]]` where each element is determined by a `Boolean` value.
 If the `Boolean` is `true` the element should be in the range of 20 to 75.
 And if the `Boolean` is `false` the element should be -1.
-The `List ` shoould be of size 5.
+The `List ` should be of size 5.
 
 <div class="solution">
 
