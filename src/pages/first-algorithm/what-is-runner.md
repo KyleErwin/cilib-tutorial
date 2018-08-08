@@ -133,6 +133,10 @@ how to do.
 
 ### staticProblem and problem
 
+`cilib` offers us methods for creating instances of `Problem` where our problem
+can be either static and dynamic. A static problem is a dynamic problem with no change.
+This thought allows us to encapsulate any type of problem in our `Problem` class.
+
 ### Conclusion
 
 This may be a lot to take in.
